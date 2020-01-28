@@ -1,3 +1,10 @@
+A [Cysharp/UniTask](https://github.com/Cysharp/UniTask) fork with UPM support.
+
+Use [UPM](https://docs.unity3d.com/Manual/upm-ui.html) to install the package via the following git URL: `https://github.com/Elringus/UnitTask.git#package`.
+
+![](https://i.gyazo.com/b54e9daa9a483d9bf7f74f0e94b2d38a.gif)
+
+
 # UniTask
 
 [![CircleCI](https://circleci.com/gh/Cysharp/UniTask.svg?style=svg)](https://circleci.com/gh/Cysharp/UniTask)
